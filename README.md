@@ -12,7 +12,7 @@ Buffalo, New York 14260
 September 23, 2019
 
 
-1 Task
+## 1 Task
 
 This project is to implement neural network and convolutional neural network for the task of classifi-
 cation.
@@ -36,7 +36,7 @@ neural network and CNN) as shown in the evaluation section.
 
 
 
-2 Dataset
+## 2 Dataset
 
 For training and testing of our classifiers, we will use the Fashion-MNIST dataset. The Fashion-MNIST
 is a dataset of Zalando’s article images, consisting of a training set of 60,000 examples and a test set
@@ -49,7 +49,7 @@ image.
 
 
 
-3 Plan of Work
+## 3 Plan of Work
 
 1. Extract feature values and labels from the data: Fashion MNIST dataset is downloaded
 and processed into a Numpy array that contains the feature vectors and a Numpy array that
@@ -75,5 +75,3 @@ set.
 tuning the hyper-parameters, fix your hyper-parameters and model parameter and test your
 models performance on the testing set. This shows the ultimate effectiveness of your models
 generalization power gained by learning.
-
-
