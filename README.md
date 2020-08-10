@@ -1,4 +1,4 @@
-# Project - 2
+# Project 2
 ## Classification of Fashion MNIST images using neural network and convolutional neural network
 
 CSE 474/574: Introduction to Machine Learning
